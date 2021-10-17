@@ -1,1 +1,1 @@
-# bankist-app
+# udemy-js-practice
